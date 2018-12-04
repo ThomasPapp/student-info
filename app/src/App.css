@@ -105,6 +105,10 @@ a.left, a.right {
   font-size: 14px;
 }
 
+.textButton:focus {
+  outline: none;
+}
+
 .buttonBlue {
   background: #4286f4;
   border-radius: 10px;
